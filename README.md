@@ -1,4 +1,7 @@
-gpda
+gpda 1.0 - Mike Hoye - mhoye@bespokeio.com - July 2012
 ====
 
-Lets you add Google's simplified (and somewhat vintage) PDA search to your Firefox search bar.
+Adds Google's simplified (retro, vintage) PDA search to your Firefox search bar.
+
+Install it by copying gpda.xml into your Firefox profile's "searchplugins"
+folder and restarting Firefox.
